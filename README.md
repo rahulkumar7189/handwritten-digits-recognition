@@ -1,2 +1,2 @@
-# handwritten-digits-recognition
-Handwritten Digits Recognition using Neural Networks with OpenCV and Keras
+# Handwritten Digits Recognition
+Simple handwritten digits recognition, trained on the MNIST database.
